@@ -1,0 +1,3 @@
+#!/bin/bash
+parent=$(cd ..)
+cp -u *.html $parent
